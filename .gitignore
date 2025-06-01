@@ -1,0 +1,10 @@
+docker/volumes/
+
+**/.env
+
+**/tmp
+**/target
+**/dist
+**/Cargo.lock
+
+.DS_Store
