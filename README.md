@@ -17,3 +17,7 @@ Websocket is on localhost:3000
 ### Leptos
 
 Frontend is on localhost:8080
+
+### Load Balancer
+
+TODO: document pingora based load balancer
